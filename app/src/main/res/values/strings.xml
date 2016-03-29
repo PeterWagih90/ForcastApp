@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cairo Weather</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="c">°C</string>
+    <string name="F">°F</string>
+</resources>

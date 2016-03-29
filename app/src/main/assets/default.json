@@ -1,0 +1,396 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "forecast": 1
+  }
+	}
+		,
+	"forecast":{
+		"txt_forecast": {
+		"date":"10:56 AM EET",
+		"forecastday": [
+		{
+		"period":0,
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"title":"Tuesday",
+		"fcttext":"Sunny. High 74F. Winds NNW at 10 to 20 mph.",
+		"fcttext_metric":"Plentiful sunshine. High 24C. Winds NNW at 15 to 30 km/h.",
+		"pop":"0"
+		}
+		,
+		{
+		"period":1,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Tuesday Night",
+		"fcttext":"A clear sky. Low 54F. Winds NNE at 10 to 20 mph.",
+		"fcttext_metric":"A clear sky. Low 12C. Winds NNE at 15 to 30 km/h.",
+		"pop":"0"
+		}
+		,
+		{
+		"period":2,
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"title":"Wednesday",
+		"fcttext":"Sunny skies. High 77F. Winds NNE at 10 to 20 mph.",
+		"fcttext_metric":"Sunny. High near 25C. Winds NNE at 15 to 30 km/h.",
+		"pop":"0"
+		}
+		,
+		{
+		"period":3,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Wednesday Night",
+		"fcttext":"A mostly clear sky. Low 56F. Winds NE at 10 to 20 mph.",
+		"fcttext_metric":"Clear skies. Low 13C. Winds NE at 15 to 30 km/h.",
+		"pop":"10"
+		}
+		,
+		{
+		"period":4,
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+		"title":"Thursday",
+		"fcttext":"Sunny skies with gusty winds developing later in the day. High around 80F. Winds NE at 20 to 30 mph.",
+		"fcttext_metric":"Sunny. Becoming windy late. High 27C. Winds NE at 25 to 40 km/h.",
+		"pop":"10"
+		}
+		,
+		{
+		"period":5,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Thursday Night",
+		"fcttext":"Clear skies. Low 57F. Winds ENE at 15 to 25 mph.",
+		"fcttext_metric":"Clear skies. Low 14C. Winds ENE at 25 to 40 km/h.",
+		"pop":"10"
+		}
+		,
+		{
+		"period":6,
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"title":"Friday",
+		"fcttext":"Sunny skies. High 84F. Winds NE at 15 to 25 mph.",
+		"fcttext_metric":"Sunny. High 29C. Winds NE at 25 to 40 km/h.",
+		"pop":"0"
+		}
+		,
+		{
+		"period":7,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Friday Night",
+		"fcttext":"Clear. Low 58F. Winds ENE at 10 to 20 mph.",
+		"fcttext_metric":"Clear. Low around 15C. Winds ENE at 15 to 30 km/h.",
+		"pop":"0"
+		}
+		]
+		},
+		"simpleforecast": {
+		"forecastday": [
+		{"date":{
+	"epoch":"1459270800",
+	"pretty":"7:00 PM EET on March 29, 2016",
+	"day":29,
+	"month":3,
+	"year":2016,
+	"yday":88,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"March",
+	"monthname_short":"Mar",
+	"weekday_short":"Tue",
+	"weekday":"Tuesday",
+	"ampm":"PM",
+	"tz_short":"EET",
+	"tz_long":"Africa/Cairo"
+},
+		"period":1,
+		"high": {
+		"fahrenheit":"74",
+		"celsius":"23"
+		},
+		"low": {
+		"fahrenheit":"54",
+		"celsius":"12"
+		},
+		"conditions":"Clear",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"skyicon":"",
+		"pop":0,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 20,
+		"kph": 32,
+		"dir": "NNW",
+		"degrees": 344
+		},
+		"avewind": {
+		"mph": 13,
+		"kph": 21,
+		"dir": "NNW",
+		"degrees": 344
+		},
+		"avehumidity": 35,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1459357200",
+	"pretty":"7:00 PM EET on March 30, 2016",
+	"day":30,
+	"month":3,
+	"year":2016,
+	"yday":89,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"March",
+	"monthname_short":"Mar",
+	"weekday_short":"Wed",
+	"weekday":"Wednesday",
+	"ampm":"PM",
+	"tz_short":"EET",
+	"tz_long":"Africa/Cairo"
+},
+		"period":2,
+		"high": {
+		"fahrenheit":"77",
+		"celsius":"25"
+		},
+		"low": {
+		"fahrenheit":"56",
+		"celsius":"13"
+		},
+		"conditions":"Clear",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"skyicon":"",
+		"pop":0,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 20,
+		"kph": 32,
+		"dir": "NNE",
+		"degrees": 16
+		},
+		"avewind": {
+		"mph": 16,
+		"kph": 26,
+		"dir": "NNE",
+		"degrees": 16
+		},
+		"avehumidity": 47,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1459443600",
+	"pretty":"7:00 PM EET on March 31, 2016",
+	"day":31,
+	"month":3,
+	"year":2016,
+	"yday":90,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"March",
+	"monthname_short":"Mar",
+	"weekday_short":"Thu",
+	"weekday":"Thursday",
+	"ampm":"PM",
+	"tz_short":"EET",
+	"tz_long":"Africa/Cairo"
+},
+		"period":3,
+		"high": {
+		"fahrenheit":"80",
+		"celsius":"27"
+		},
+		"low": {
+		"fahrenheit":"57",
+		"celsius":"14"
+		},
+		"conditions":"Partly Cloudy",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+		"skyicon":"",
+		"pop":10,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 30,
+		"kph": 48,
+		"dir": "NE",
+		"degrees": 43
+		},
+		"avewind": {
+		"mph": 20,
+		"kph": 32,
+		"dir": "NE",
+		"degrees": 43
+		},
+		"avehumidity": 44,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1459530000",
+	"pretty":"7:00 PM EET on April 01, 2016",
+	"day":1,
+	"month":4,
+	"year":2016,
+	"yday":91,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"April",
+	"monthname_short":"Apr",
+	"weekday_short":"Fri",
+	"weekday":"Friday",
+	"ampm":"PM",
+	"tz_short":"EET",
+	"tz_long":"Africa/Cairo"
+},
+		"period":4,
+		"high": {
+		"fahrenheit":"84",
+		"celsius":"29"
+		},
+		"low": {
+		"fahrenheit":"58",
+		"celsius":"14"
+		},
+		"conditions":"Clear",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"skyicon":"",
+		"pop":0,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 25,
+		"kph": 40,
+		"dir": "NE",
+		"degrees": 54
+		},
+		"avewind": {
+		"mph": 18,
+		"kph": 29,
+		"dir": "NE",
+		"degrees": 54
+		},
+		"avehumidity": 34,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		]
+		}
+	}
+}
